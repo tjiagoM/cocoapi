@@ -1,5 +1,7 @@
 # Forked COCO API
 
+It includes some modifications on the LRP code used in `pdq_evaluation`.
+
 To install locally:
 
 Run `make` under `PythonAPI` folder.
